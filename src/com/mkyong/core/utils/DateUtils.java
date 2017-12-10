@@ -5,7 +5,7 @@ import java.util.Date;
 public class DateUtils {
 
 	public static void main(String[] args) {
-		System.out.println("Otro cambio");
+		System.out.println("Otro cambio más");
 		System.out.println("Hola a todos");
 		System.out.println(getLocalCurrentDate());
 		
